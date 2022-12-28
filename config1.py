@@ -1,4 +1,4 @@
-TOKEN = '5903059466:AAGjQSATj219cZspgg8oD9DY11cq28ETgds'
+TOKEN = 'Токен вашего бота'
 
 keys = {
     'Евро': 'EUR',
